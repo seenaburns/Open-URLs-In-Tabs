@@ -6,4 +6,4 @@ A Python modification of John Gruber's (Daring Fireball) [Open URLs in Safari Ta
 Uses the webbrowser module to open the URLs in the system default browser (e.g.
 Chrome) rather than Safari. 
 
-Distributed as an OSX service, like the original.
+Distributed as an [OSX service](http://www.macosxautomation.com/services/index.html), like the original.
