@@ -7,3 +7,5 @@ Uses the webbrowser module to open the URLs in the system default browser (e.g.
 Chrome) rather than Safari. 
 
 Distributed as an [OSX service](http://www.macosxautomation.com/services/index.html), like the original.
+
+Download [here](http://assets.ethanbird.com/files/Open-URLs-in-Tabs-1.0.zip).
